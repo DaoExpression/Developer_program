@@ -1,8 +1,16 @@
 # Developer_program
-Optional way to use github. Suggested by Github. Lets explore it ! 
+Optional way to use github. 
 
-https://docs.github.com/en/rest/guides
+Suggested by Github. Lets explore it ! 
 
-https://docs.github.com/en/get-started/exploring-integrations/github-developer-program
+## Github Developer Program Documentation 
 
-https://support.github.com/request?tags=dotcom-contact-params
+1. https://docs.github.com/en/rest/guides
+2. https://docs.github.com/en/get-started/exploring-integrations/github-developer-program
+3. https://support.github.com/request?tags=dotcom-contact-params
+
+## Github Community
+
+https://github.com/orgs/community/discussions/
+
+
